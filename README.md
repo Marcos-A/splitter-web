@@ -26,13 +26,13 @@ Make sure `uploads/` and `batch/tmp/` directories are web writable.
 
 Into the `batch/` directory you will find two scripts:
 
- ButlletinsSplitter.py
+	ButlletinsSplitter.py
 
- SagaSplit.sh
+	SagaSplit.sh
 
 Choose one according to your needs, being SagaReport.pdf the report that you have downloaded from Saga.
 
- python3 ButlletinsSplitter.py SagaReport.pdf
+	python3 ButlletinsSplitter.py SagaReport.pdf
 
- sh SagaSplit.sh SagaReport.pdf
+	sh SagaSplit.sh SagaReport.pdf
 
